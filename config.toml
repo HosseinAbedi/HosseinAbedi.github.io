@@ -1,0 +1,43 @@
+baseURL = "localhost:1313"
+languageCode = "en-us"
+title = "Hossein Abedi"
+theme = "hugo-lodi-theme"
+googleAnalytics = "UA-XXXXXXXX-Y"
+
+[params]
+    theme_color = "#574CDD"
+    description = "Hossein Abedi Firouzjaee, Data Scientist, Kaggle Competitions Master"
+    description_photo = "portfolio.jpg"
+    favicon = "favicon.png"
+    logo = "logo.png"
+    email = "abedi.hossein@prtonmail.ch"
+    # facebook = "lex.collado"
+    # twitter = "lexiscollado"
+    # dribbble = "alexiscollado"
+    linkedin = "https://www.linkedin.com/in/hossein-abedi-firouzjaee-a5b76544/"
+    # medium = "ahvccollado"
+    github = "HosseinAbedi"
+    googlescholar = "https://scholar.google.com/citations?user=mtIpNLUAAAAJ&hl=en"
+
+[params.nav]
+    enable = true
+
+[params.hero]
+    enable = true
+    avatar = "avatar.jpg"
+    subtitle = "Hey I'm Hossein Abedi Firouzjaee, a data scientist and a Kaggle competitions master."
+    hero_right = ["I am a passionate machine learning engineer and data scientist with four years of experience in solving different data-related problems.", "I started my journey in data science right out of the university by joining a start-up company. Along with my professional career, I spend a lot of time in Kaggle competing in various competitions. "]
+    resume = "ResumeCollado.pdf"
+
+[params.process]
+    enable = false
+    title = "My Process"
+    subtitle = "Full Process Design"
+
+[params.case_studies]
+    enable = false
+    title = "Case Studies"
+    subtitle = "Selected Works"
+
+[params.footer]
+    enable = false
